@@ -1,0 +1,13 @@
+{
+  "Datasets": ["cora"],
+  "Cons_Models": ["LVGAE"],
+  "Epoch": 200,
+  "Alphas":[1.0],
+  "Betas":[0],
+  "Rules": [6],
+  "L2s": [1e-6],
+  "Lrs": [0.01],
+  "Num_Val_Ratio_Per": [10.00],
+  "HiddenDims1": [16],
+  "HiddenDims2": [16]
+}
